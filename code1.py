@@ -3,7 +3,7 @@
 #----->Using temp variable
 #----->Using assinging variable
 
----->using temp variable---->
+#---->using temp variable---->
 
 num1=int(input("Enter your Number:"))
 num2=int(input("Enter your Number:"))
